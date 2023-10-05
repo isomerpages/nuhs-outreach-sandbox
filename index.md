@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Health Together
+      subtitle: Care in the Community
+      background: /images/health-together-key-visual.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
