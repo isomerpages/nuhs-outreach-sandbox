@@ -1,0 +1,8 @@
+logo: /images/nuhs logo.png
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Newsletters
+    url: /newsletters/
+  - title: Example Folder
+    collection: example-folder
