@@ -10,8 +10,8 @@ sections:
       title: Health Together
       background: /images/health-together-key-visual.jpg
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: Diabetes
+      subtitle: How to track
       id: infocols
       linktext: Learn more
       infoboxes:
