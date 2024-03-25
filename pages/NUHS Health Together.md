@@ -3,6 +3,7 @@ title: NUHS Health Together
 permalink: /healthtogether/
 description: Health Together
 image: /images/health-together-key-visual.jpg
+variant: markdown
 ---
 # Welcome to Health Together: Your Gateway to Wellness in the West!
 
