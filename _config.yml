@@ -1,5 +1,5 @@
 title: Health Together
-url: https://www.hsg.nuhs.edu.sg
+url: https://www.health.nuhs.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,6 +53,6 @@ staging: https://staging.d1h8k1b0fvcsam.amplifyapp.com
 prod: https://master.d1h8k1b0fvcsam.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: true
+is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
