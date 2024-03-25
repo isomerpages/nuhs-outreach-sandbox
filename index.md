@@ -9,16 +9,13 @@ sections:
   - hero:
       title: Health Together
       background: /images/health-together-key-visual.jpg
-  - infobar:
-      title: ABC
-      subtitle: ABC
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: This is a test  but tfhoisfhoshgoisgsognsonsodfnsohnso so psdv spiv
+            spv sp osdjv svh svps  svs
 ---
